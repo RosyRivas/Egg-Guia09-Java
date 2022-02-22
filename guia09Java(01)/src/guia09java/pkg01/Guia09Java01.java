@@ -13,7 +13,7 @@ public class Guia09Java01 {
         persona.setNombre("Martina");
         persona.setApellido("Flores");
         persona.setEdad("24");
-        persona.setDni("40195263");
+        persona.setDni("40195555");
 
         persona.setMascota(perro);
         System.out.println(persona.toString());
@@ -22,7 +22,7 @@ public class Guia09Java01 {
         persona1.setNombre("Alberto");
         persona1.setApellido("Gimenez");
         persona1.setEdad("50");
-        persona1.setDni("20198265");
+        persona1.setDni("25598265");
 
         persona1.setMascota(perro1);
         System.out.println(persona1.toString());
